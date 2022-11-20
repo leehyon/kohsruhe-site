@@ -80,7 +80,7 @@
   translation: Load Disqus Comments
 
 - id: translations
-  translation: "Translations: "
+  translation: "-"
 
 - id: author
   translation: Author

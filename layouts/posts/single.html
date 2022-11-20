@@ -36,7 +36,7 @@
         {{ with .Params.tags -}}
           {{ $.Scratch.Set "firsttag" true }}
           <div class="clearfix"></div>
-          <p class="float-right header-tags">
+          <p class="float-left header-tags">
               <i class="fas fa-tags" aria-hidden="true"></i>
               {{ range (. | sort) -}}
               {{- $name := . -}}

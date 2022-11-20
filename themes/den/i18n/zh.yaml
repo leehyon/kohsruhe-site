@@ -80,7 +80,7 @@
   translation: 载入 Disqus 评论 
 
 - id: translations
-  translation: "翻译: "
+  translation: "-"
 
 - id: author
   translation: 作者

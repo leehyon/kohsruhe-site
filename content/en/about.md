@@ -6,19 +6,25 @@ weight: 100
 rss_ignore: true
 ---
 
-## 🖖 Hi, I'm Koh
+## 🖖 Hey Friends
 
-Wild programming enthusiast, graduated from KIT with a master’s degree in mechanical engineering. Currently working in an American company as an automotive embedded software engineer, but still at the rookie level. I would like to use this site to keep documented and growing.
+I'm Koh. Wild programming enthusiast, graduated from KIT with a master’s degree in mechanical engineering. Currently working in an automotive company as an embedded software engineer.
 
-In my spare time I like to investigate methodologies and explore new things, and I am committed to building my digital garden, in which knowledge and ideas can grow and evolve over time. At the same time, I am trying to keep thinking and explore the underlying logic underneath everyday's life, refuse to cheat and be able to live in the present moment with clarity.
+In my spare time I like to investigate strategies and challenge new things. I am building my digital garden, in which knowledge and ideas can grow and evolve over time. At the same time, I am trying to keep thinking and explore the underlying logic underneath everyday’s life, refuse to cheat and live in the present moment with clarity.
 
-Outside of my studies, I like the outdoors and photography, and buying stocks sometimes.
+Outside of studying, I like the outdoors and photography, and buying stocks sometimes.
 
 ## 🥷🏼 What I'm Working On
 
-I switched my job recently and got a lot of things to struggle with.
+- ISP, CMake/Conan, Buildsystem
+- Moving to a new place
 
-I'm thinking about moving to another apartment.
 
+## 🏕️ About Kohsruhe
+Kohsruhe is my first site. I mainly write about my daily life, studies and thoughts here. 
 
-## 📝 About this site
+Picking a right and good site name is not always easy. The word "Kohsruhe" is a combination of two words: Koh and Ruhe. Koh is my nickname while Ruhe is a German word, which means silence and peace. I hope this site would be a place to find my inner peace. Besides, Kohsruhe is very similar to Karlsruhe, a city I lived in and studied for my master degree in abroad. 
+
+## 🍿 Recent Digests
+- Tang Garden (Board Games)
+- Young Sheldon (TV Series)

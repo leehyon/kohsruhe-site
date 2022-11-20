@@ -75,7 +75,7 @@
   translation: 載入 Disqus 評論
 
 - id: translations
-  translation: "翻譯： "
+  translation: "-"
 
 - id: author
   translation: 作者
