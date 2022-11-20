@@ -1,5 +1,5 @@
 ---
-title: "信创是短期炒作还是基本面驱动"
+title: "Infono, Short-term Hype or Fundamentals-driven"
 date: 2022-11-19T20:37:56+08:00
 draft: false
 tags: ["invest", "infono", "market"]
