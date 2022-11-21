@@ -1,8 +1,8 @@
 ---
-title: "Git快速上手"
+title: "Git 快速上手"
 date: 2022-11-20T16:59:39+08:00
 draft: false
-tags: ["git", "guide", "tools"]
+tags: ["git", "guide", "tool"]
 categories: ["articles"]
 authors:
 - "Leehyon"
