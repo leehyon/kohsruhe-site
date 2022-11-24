@@ -8,7 +8,6 @@ authors:
 - "Leehyon"
 ---
 
-{{<audio src="audio/life_live.mp3" caption="♪ 超人 - 五月天" >}}
+## 前言
 
-## ToDo
 - [ ] this is an incomplete article
