@@ -16,12 +16,12 @@ Outside of studying, I like the outdoors and photography, and buying stocks some
 
 ## 💻 What I'm Working On
 
-- ISP, CMake/Conan, Buildsystem
-- Moving to a new place
+- ISP, CMake/Conan, Buildsystem, FreeRTOS
+- Moving to Jiading Xincheng
 
 
 ## 🏕️ About Kohsruhe
-Kohsruhe is my first site. I mainly write about my daily life, studies and thoughts here. 
+[Kohsruhe](kohsruhe.com) is my first site. I mainly write about my daily life, studies and thoughts here. 
 
 Picking a right and good site name is not always easy. The word "Kohsruhe" is a combination of two words: Koh and Ruhe. Koh is my nickname while Ruhe is a German word, which means silence and peace. I hope this site would be a place to find my inner peace. Besides, Kohsruhe is very similar to Karlsruhe, a city I lived in when I studied for my master degree in abroad. 
 
